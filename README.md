@@ -1,6 +1,7 @@
-# testproject
-LaTeX parser, changes case of text without altering formatting
+# Function
+LaTeX parser, changes the case of text without altering its formatting
 # Usage
-Example: M->m, m->M
-Created as a response to a test, for applying to NIST DRMF.
+Example: An uppercase M becomes a lowercase m and vice versa
+# Access
+Created as a response to a test, for the NIST DRMF.
 Made using Eclipse Neon
